@@ -1,0 +1,1 @@
+# Etapas para instalação do projeto Bottom Tabs Navigator
