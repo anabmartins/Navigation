@@ -1,2 +1,2 @@
 # Navigation
-navegação com o React Native é utilizando a biblioteca Navigation
+navegação com o React Native utilizando a biblioteca Navigation
