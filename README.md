@@ -1,2 +1,5 @@
 # Navigation
-navegação com o React Native utilizando a biblioteca Navigation
+Implantação de Navegação com o React Native utilizando a biblioteca Navigation
+
+[Documentation](https://reactnavigation.org/docs/getting-started/?authuser=0)
+

@@ -1,2 +1,2 @@
-# Etapas para instalação do projeto Stack
+# Etapas para instalSettings!ação do projeto Stack
 
